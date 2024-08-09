@@ -1,6 +1,5 @@
-public class Feature2 {
+public class Feature1 {
     String s;
     Integer i;
     String str;
-    Integer a;
 }
